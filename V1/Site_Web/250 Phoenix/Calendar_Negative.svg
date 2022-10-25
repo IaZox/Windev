@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Calque_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px" height="18px"
+	 viewBox="0 0 22 18" enable-background="new 0 0 22 18" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="14" width="14" y="0.5" x="10.5" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<rect x="4.551" y="4.654" opacity="0.08" fill="#F4F4F4" enable-background="new    " width="12.896" height="11.784"/>
+<g opacity="0.5">
+	<g>
+		<path fill="#F4F4F4" d="M14.834,4.126C14.705,3.485,14.148,3,13.482,3c-0.152,0-0.275,0.126-0.275,0.281
+			c0,0.156,0.123,0.281,0.275,0.281c0.457,0,0.828,0.38,0.828,0.844c0,0.467-0.371,0.845-0.828,0.845
+			c-0.152,0-0.275,0.126-0.275,0.281c0,0.156,0.123,0.282,0.275,0.282c0.666,0,1.223-0.484,1.352-1.126h2.613v1.92v0.613V6.764
+			v0.673v9H4.551v-9V6.764v0.458V6.609v-1.92h2.862h0.828c0.153,0,0.276-0.126,0.276-0.282c0-0.155-0.123-0.28-0.276-0.28H7.74
+			C7.854,3.8,8.158,3.564,8.517,3.564c0.457,0,0.828,0.38,0.828,0.844c0,0.467-0.371,0.845-0.828,0.845
+			c-0.152,0-0.276,0.126-0.276,0.281c0,0.156,0.124,0.282,0.276,0.282c0.761,0,1.379-0.631,1.379-1.408C9.896,3.632,9.277,3,8.517,3
+			C7.851,3,7.293,3.485,7.166,4.126H4v2.638V17h14V6.764V4.126H14.834z"/>
+		<path fill="#F4F4F4" d="M10.172,3.563c0.457,0,0.828,0.38,0.828,0.844c0,0.467-0.371,0.845-0.828,0.845
+			c-0.152,0-0.276,0.126-0.276,0.281c0,0.156,0.124,0.282,0.276,0.282c0.761,0,1.379-0.631,1.379-1.408
+			C11.551,3.632,10.933,3,10.172,3C10.02,3,9.896,3.126,9.896,3.282C9.896,3.438,10.02,3.563,10.172,3.563z"/>
+		<path fill="#F4F4F4" d="M11.828,3.563c0.455,0,0.826,0.38,0.826,0.844c0,0.467-0.371,0.845-0.826,0.845
+			c-0.154,0-0.277,0.126-0.277,0.281c0,0.156,0.123,0.282,0.277,0.282c0.76,0,1.379-0.631,1.379-1.408
+			C13.207,3.632,12.588,3,11.828,3c-0.154,0-0.277,0.126-0.277,0.281C11.551,3.438,11.674,3.563,11.828,3.563z"/>
+	</g>
+	<ellipse fill="#F4F4F4" cx="9.496" cy="7.714" rx="0.5" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="12.498" cy="7.714" rx="0.5" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="15.5" cy="7.746" rx="0.5" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="6.496" cy="10.807" rx="0.5" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="9.496" cy="10.807" rx="0.5" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="12.498" cy="10.807" rx="0.5" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="15.5" cy="10.807" rx="0.5" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="6.496" cy="13.867" rx="0.501" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="9.497" cy="13.867" rx="0.501" ry="0.51"/>
+	<ellipse fill="#F4F4F4" cx="12.5" cy="13.867" rx="0.5" ry="0.51"/>
+</g>
+</svg>

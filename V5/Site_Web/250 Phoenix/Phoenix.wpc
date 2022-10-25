@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Palette Nom="Phoenix">
+  <Couleurs>
+    <Couleur Nom="FondFenetre" ID="0">#f5f5f5</Couleur>
+    <Couleur Nom="FondSansImage" ID="2">#4285f4</Couleur>
+    <Couleur Nom="FondChampSaisie" ID="3">#ffffff</Couleur>
+    <Couleur Nom="FondSurvol" ID="4">#ffffff</Couleur>
+    <Couleur Nom="FondSelection" ID="5">#4285f4</Couleur>
+    <Couleur Nom="FondTableLignesImpaires" ID="1">#616161</Couleur>
+    <Couleur Nom="FondLibNote" ID="8">#f5f5f5</Couleur>
+    <Couleur Nom="FondLibAttention" ID="9">#fff9c4</Couleur>
+    <Couleur Nom="TxtNormal" ID="10">#5f6368</Couleur>
+    <Couleur Nom="TxtSelection" ID="15">#5f6368</Couleur>
+    <Couleur Nom="TxtChampSaisie" ID="13">#000000</Couleur>
+    <Couleur Nom="TxtTitreFenetre" ID="11">#ffffff</Couleur>
+    <Couleur Nom="TxtSousTitre" ID="12">#5f6368</Couleur>
+    <Couleur Nom="TxtTitreOptionSelecteur" ID="19">#4285f4</Couleur>
+    <Couleur Nom="CadreGeneral" ID="16">#dadce0</Couleur>
+    <Couleur Nom="TxtLien" ID="14">#4285f4</Couleur>
+    <Couleur Nom="TxtNegatif" ID="18">#f5f5f5</Couleur>
+    <Couleur Nom="CadreFondDegradeDebut" ID="6">#4285f4</Couleur>
+    <Couleur Nom="CadreFondDegradeFin" ID="7">#616161</Couleur>
+    <Couleur Nom="CadreAssorti" ID="17">#80868b</Couleur>
+    <Couleur Nom="TexteBouton" ID="20">#ffffff</Couleur>
+  </Couleurs>
+</Palette>
