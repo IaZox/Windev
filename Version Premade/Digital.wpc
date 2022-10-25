@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Palette Nom="Digital">
+  <Couleurs>
+    <Couleur Nom="Général (Fond 1)" ID="0">#f4f4f4</Couleur>
+    <Couleur Nom="Négatif (Fond 1)" ID="1">#2d2d2d</Couleur>
+    <Couleur Nom="Bouton (Fond 1)" ID="2">#fcfbfb</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Fond 1)" ID="3">#ffffff</Couleur>
+    <Couleur Nom="Bouton (Fond 2)" ID="4">#e6e6e6</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Fond 2)" ID="5">#c3e1ee</Couleur>
+    <Couleur Nom="Dégradé (Fond 1)" ID="6">#c3e1ee</Couleur>
+    <Couleur Nom="Dégradé (Fond 2)" ID="7">#009de0</Couleur>
+    <Couleur Nom="Note (Fond 1)" ID="8">#f4f4f0</Couleur>
+    <Couleur Nom="Note (Fond 2)" ID="9">#fff0a5</Couleur>
+    <Couleur Nom="Général (Texte 1)" ID="10">#2d2d2d</Couleur>
+    <Couleur Nom="Titre (Texte 1)" ID="11">#2d2d2d</Couleur>
+    <Couleur Nom="Sous-titre (Texte 1)" ID="12">#2d2d2d</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Texte 1)" ID="13">#2d2d2d</Couleur>
+    <Couleur Nom="Lien (1) (Texte 1)" ID="14">#009de0</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Texte 2)" ID="15">#000000</Couleur>
+    <Couleur Nom="Général (Cadre 1)" ID="16">#d0d2d4</Couleur>
+    <Couleur Nom="Général (Cadre 2)" ID="17">#009de0</Couleur>
+    <Couleur Nom="Négatif (Texte 1)" ID="18">#f4f4f4</Couleur>
+    <Couleur Nom="Général (Texte 2)" ID="19">#000000</Couleur>
+    <Couleur Nom="Bouton (Texte 1)" ID="20">#2d2d2d</Couleur>
+    <Couleur Nom="Général (Fond 2)" ID="21">#ffffff</Couleur>
+    <Couleur Nom="Général (Fond 3)" ID="22">#eaeaea</Couleur>
+    <Couleur Nom="Négatif (Fond 2)" ID="23">#000000</Couleur>
+    <Couleur Nom="Négatif (Fond 3)" ID="24">#999999</Couleur>
+    <Couleur Nom="Bouton (Fond 3)" ID="25">#bcd7e3</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Fond 3)" ID="26">#f4f4f0</Couleur>
+    <Couleur Nom="Dégradé (Fond 3)" ID="27">#ffffff</Couleur>
+    <Couleur Nom="Note (Fond 3)" ID="28">#ff9899</Couleur>
+    <Couleur Nom="Titre (Fond 1)" ID="29">#f4f4f4</Couleur>
+    <Couleur Nom="Titre (Fond 2)" ID="30">#eaeaea</Couleur>
+    <Couleur Nom="Titre (Fond 3)" ID="31">#ffffff</Couleur>
+    <Couleur Nom="Sous-titre (Fond 1)" ID="32">#f4f4f4</Couleur>
+    <Couleur Nom="Sous-titre (Fond 2)" ID="33">#eaeaea</Couleur>
+    <Couleur Nom="Sous-titre (Fond 3)" ID="34">#ffffff</Couleur>
+    <Couleur Nom="Menu / Onglet (Fond 1)" ID="35">#ffffff</Couleur>
+    <Couleur Nom="Menu / Onglet (Fond 2)" ID="36">#f4f4f5</Couleur>
+    <Couleur Nom="Menu / Onglet (Fond 3)" ID="37">#009de2</Couleur>
+    <Couleur Nom="Sous-menu (Fond 1)" ID="38">#ffffff</Couleur>
+    <Couleur Nom="Sous-menu (Fond 2)" ID="39">#f4f4f5</Couleur>
+    <Couleur Nom="Sous-menu (Fond 3)" ID="40">#009de2</Couleur>
+    <Couleur Nom="Lignes de Table / Zone répétée (Fond 1)" ID="41">#f4f4f4</Couleur>
+    <Couleur Nom="Lignes de Table / Zone répétée (Fond 2)" ID="42">#ffffff</Couleur>
+    <Couleur Nom="Lignes de Table / Zone répétée (Fond 3)" ID="43">#eaeaea</Couleur>
+    <Couleur Nom="Général (Texte 3)" ID="44">#999999</Couleur>
+    <Couleur Nom="Négatif (Texte 2)" ID="45">#ffffff</Couleur>
+    <Couleur Nom="Négatif (Texte 3)" ID="46">#eaeaeb</Couleur>
+    <Couleur Nom="Titre (Texte 2)" ID="47">#000000</Couleur>
+    <Couleur Nom="Titre (Texte 3)" ID="48">#009de0</Couleur>
+    <Couleur Nom="Sous-titre (Texte 2)" ID="49">#000000</Couleur>
+    <Couleur Nom="Sous-titre (Texte 3)" ID="50">#009de0</Couleur>
+    <Couleur Nom="Lien (1) (Texte 2)" ID="51">#06b5ff</Couleur>
+    <Couleur Nom="Lien (1) (Texte 3)" ID="52">#faa400</Couleur>
+    <Couleur Nom="Lien (2) (Texte 1)" ID="53">#2d2d2d</Couleur>
+    <Couleur Nom="Lien (2) (Texte 2)" ID="54">#000000</Couleur>
+    <Couleur Nom="Lien (2) (Texte 3)" ID="55">#9c03dc</Couleur>
+    <Couleur Nom="Bouton (Texte 2)" ID="56">#2d2d2d</Couleur>
+    <Couleur Nom="Bouton (Texte 3)" ID="57">#2d2d2d</Couleur>
+    <Couleur Nom="Menu / Onglet (Texte 1)" ID="58">#2d2d2d</Couleur>
+    <Couleur Nom="Menu / Onglet (Texte 2)" ID="59">#2d2d2d</Couleur>
+    <Couleur Nom="Menu / Onglet (Texte 3)" ID="60">#ffffff</Couleur>
+    <Couleur Nom="Sous-menu (Texte 1)" ID="61">#2d2d2d</Couleur>
+    <Couleur Nom="Sous-menu (Texte 2)" ID="62">#2d2d2d</Couleur>
+    <Couleur Nom="Sous-menu (Texte 3)" ID="63">#ffffff</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Texte 3)" ID="64">#2d2d2d</Couleur>
+    <Couleur Nom="Note (Texte 1)" ID="65">#4f4f4f</Couleur>
+    <Couleur Nom="Note (Texte 2)" ID="66">#745f1d</Couleur>
+    <Couleur Nom="Note (Texte 3)" ID="67">#ffffff</Couleur>
+    <Couleur Nom="Général (Cadre 3)" ID="68">#ffffff</Couleur>
+    <Couleur Nom="Négatif (Cadre 1)" ID="69">#f4f4f3</Couleur>
+    <Couleur Nom="Négatif (Cadre 2)" ID="70">#ffffff</Couleur>
+    <Couleur Nom="Négatif (Cadre 3)" ID="71">#eaeaeb</Couleur>
+    <Couleur Nom="Bouton (Cadre 1)" ID="72">#d0d2d5</Couleur>
+    <Couleur Nom="Bouton (Cadre 2)" ID="73">#898989</Couleur>
+    <Couleur Nom="Bouton (Cadre 3)" ID="74">#009ee0</Couleur>
+    <Couleur Nom="Menu / Onglet (Cadre 1)" ID="75">#009de1</Couleur>
+    <Couleur Nom="Menu / Onglet (Cadre 2)" ID="76">#ffffff</Couleur>
+    <Couleur Nom="Menu / Onglet (Cadre 3)" ID="77">#d0d2d3</Couleur>
+    <Couleur Nom="Sous-menu (Cadre 1)" ID="78">#009de1</Couleur>
+    <Couleur Nom="Sous-menu (Cadre 2)" ID="79">#ffffff</Couleur>
+    <Couleur Nom="Sous-menu (Cadre 3)" ID="80">#d0d2d3</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Cadre 1)" ID="81">#d0d2d6</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Cadre 2)" ID="82">#000000</Couleur>
+    <Couleur Nom="Zone de saisie / en sélection (Cadre 3)" ID="83">#ffffff</Couleur>
+    <Couleur Nom="Note (Cadre 1)" ID="84">#d0d2d6</Couleur>
+    <Couleur Nom="Note (Cadre 2)" ID="85">#fed22f</Couleur>
+    <Couleur Nom="Note (Cadre 3)" ID="86">#c34336</Couleur>
+    <Couleur Nom="Information (Texte 1)" ID="87">#ffffff</Couleur>
+    <Couleur Nom="Information (Texte 2)" ID="88">#ffffff</Couleur>
+    <Couleur Nom="Information (Texte 3)" ID="89">#ffffff</Couleur>
+    <Couleur Nom="Validation (Texte 1)" ID="90">#ffffff</Couleur>
+    <Couleur Nom="Validation (Texte 2)" ID="91">#ffffff</Couleur>
+    <Couleur Nom="Validation (Texte 3)" ID="92">#ffffff</Couleur>
+    <Couleur Nom="Modification (Texte 1)" ID="93">#ffffff</Couleur>
+    <Couleur Nom="Modification (Texte 2)" ID="94">#ffffff</Couleur>
+    <Couleur Nom="Modification (Texte 3)" ID="95">#ffffff</Couleur>
+    <Couleur Nom="Avertissement (Texte 1)" ID="96">#ffffff</Couleur>
+    <Couleur Nom="Avertissement (Texte 2)" ID="97">#ffffff</Couleur>
+    <Couleur Nom="Avertissement (Texte 3)" ID="98">#ffffff</Couleur>
+    <Couleur Nom="Information (Fond 1)" ID="99">#5bc0de</Couleur>
+    <Couleur Nom="Information (Fond 2)" ID="100">#31b0d5</Couleur>
+    <Couleur Nom="Information (Fond 3)" ID="101">#269abc</Couleur>
+    <Couleur Nom="Validation (Fond 1)" ID="102">#5cb85c</Couleur>
+    <Couleur Nom="Validation (Fond 2)" ID="103">#449d44</Couleur>
+    <Couleur Nom="Validation (Fond 3)" ID="104">#398439</Couleur>
+    <Couleur Nom="Modification (Fond 1)" ID="105">#f0ad4e</Couleur>
+    <Couleur Nom="Modification (Fond 2)" ID="106">#ec971f</Couleur>
+    <Couleur Nom="Modification (Fond 3)" ID="107">#d58512</Couleur>
+    <Couleur Nom="Avertissement (Fond 1)" ID="108">#d9534f</Couleur>
+    <Couleur Nom="Avertissement (Fond 2)" ID="109">#c9302c</Couleur>
+    <Couleur Nom="Avertissement (Fond 3)" ID="110">#ab2925</Couleur>
+    <Couleur Nom="Information (Cadre 1)" ID="111">#46b8da</Couleur>
+    <Couleur Nom="Information (Cadre 2)" ID="112">#269abc</Couleur>
+    <Couleur Nom="Information (Cadre 3)" ID="113">#1b6d85</Couleur>
+    <Couleur Nom="Validation (Cadre 1)" ID="114">#4cae4c</Couleur>
+    <Couleur Nom="Validation (Cadre 2)" ID="115">#398439</Couleur>
+    <Couleur Nom="Validation (Cadre 3)" ID="116">#255625</Couleur>
+    <Couleur Nom="Modification (Cadre 1)" ID="117">#eea236</Couleur>
+    <Couleur Nom="Modification (Cadre 2)" ID="118">#d58512</Couleur>
+    <Couleur Nom="Modification (Cadre 3)" ID="119">#985f0d</Couleur>
+    <Couleur Nom="Avertissement (Cadre 1)" ID="120">#d43f3a</Couleur>
+    <Couleur Nom="Avertissement (Cadre 2)" ID="121">#ac2925</Couleur>
+    <Couleur Nom="Avertissement (Cadre 3)" ID="122">#761c19</Couleur>
+    <Couleur ID="123" Nom="Serie1">#E14A39</Couleur>
+    <Couleur ID="124" Nom="Serie2">#FAA026</Couleur>
+    <Couleur ID="125" Nom="Serie3">#61BC6D</Couleur>
+    <Couleur ID="126" Nom="Serie4">#00A885</Couleur>
+    <Couleur ID="127" Nom="Serie5">#54ACD2</Couleur>
+    <Couleur ID="128" Nom="Serie6">#2B82C9</Couleur>
+    <Couleur ID="129" Nom="Serie7">#F85CA9</Couleur>
+    <Couleur ID="130" Nom="Serie8">#9265B8</Couleur>
+    <Couleur ID="131" Nom="Serie9">#5E4AB7</Couleur>
+    <Couleur ID="132" Nom="Serie10">#444E65</Couleur>
+    <Couleur ID="133" Nom="Serie11">#95A5A5</Couleur>
+  </Couleurs>
+</Palette>
